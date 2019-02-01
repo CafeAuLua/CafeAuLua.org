@@ -1,0 +1,22 @@
+{
+  "name": "cafeaulua.org",
+  "version": "1.0.0",
+  "description": "CafeAuLua's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammehcow/CafeAuLua.org.git"
+  },
+  "author": "jammehcow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jammehcow/CafeAuLua.org/issues"
+  },
+  "homepage": "https://github.com/jammehcow/CafeAuLua.org#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
