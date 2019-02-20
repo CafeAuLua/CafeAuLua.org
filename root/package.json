@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jammehcow/CafeAuLua.org.git"
+    "url": "git+https://github.com/CafeAuLua/CafeAuLua.org.git"
   },
   "author": "jammehcow",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jammehcow/CafeAuLua.org/issues"
+    "url": "https://github.com/CafeAuLua/CafeAuLua.org/issues"
   },
-  "homepage": "https://github.com/jammehcow/CafeAuLua.org#readme",
+  "homepage": "https://github.com/CafeAuLua/CafeAuLua.org#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
