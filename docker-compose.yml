@@ -1,0 +1,10 @@
+version: '3'
+services:
+    root:
+        build: ./root
+        ports:
+            - 4000:80
+    #blog:
+    #    build: ./blog
+    #    ports:
+    #        - 4001:80
